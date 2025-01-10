@@ -5,3 +5,4 @@ qq237661791/php74zhibang:latest
 nginx:1.21.6
 php:7.3.33-fpm-alpine3.14
 krisss/docker-webman:7.4-cli-alpine
+golang:1.22-alpine
