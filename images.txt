@@ -1,5 +1,6 @@
 redis:7.4.0
 mysql:5.7
+mysql:5.6
 qq237661791/php7.3
 qq237661791/php74zhibang:latest
 nginx:1.21.6
